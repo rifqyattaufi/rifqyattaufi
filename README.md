@@ -4,6 +4,8 @@
 🚀 Experience in building scalable RESTful APIs, clean architecture, and full-cycle software development  
 🤝 Passionate about collaboration, problem-solving, and creating impactful tech solutions 
 
+[Click here](https://rifqy.framer.website) to see my portofolio
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rifqyattaufi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rifqy-attaufi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rifqy1406@gmail.com) 
 
